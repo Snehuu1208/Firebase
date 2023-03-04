@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="add_name">Add Name</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="_91">+91</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="we_will_send_you_otp_in_this_given_mobile_no">We will send you OTP in this given mobile no</string>
+    <string name="enter_mobile_no">Enter Mobile No</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent to you</string>
+    <string name="otpVerification">OTP Verification</string>
+    <string name="didn_t_receive_the_otp_resend_otp_again">Didn\'t receive the otp RESEND OTP AGAIN</string>
+    <string name="resend">Resend</string>
+    <string name="todo">TODO</string>
+    <string name="submit">Submit</string>
+    <string name="x1">X</string>
+    <string name="x2">X</string>
+    <string name="x3">X</string>
+    <string name="x4">X</string>
+</resources>
